@@ -1,0 +1,111 @@
+INC
+kex:kyber512
+sig:dilithium2
+half_delay_time:14.5ms
+
+half_loss_rate:0.00
+cnt=5000
+average handshake time:4.41823e+07
+
+
+half_loss_rate:0.50
+cnt=5000
+average handshake time:4.76474e+07
+
+
+half_loss_rate:1.00
+cnt=5000
+average handshake time:5.08679e+07
+
+
+half_loss_rate:1.50
+cnt=5000
+average handshake time:5.41559e+07
+
+
+half_loss_rate:2.00
+cnt=5000
+average handshake time:5.94814e+07
+
+
+half_loss_rate:2.50
+cnt=5000
+average handshake time:6.33948e+07
+
+
+half_loss_rate:3.00
+cnt=5000
+average handshake time:6.48593e+07
+
+
+half_loss_rate:3.50
+cnt=5000
+average handshake time:6.94701e+07
+
+
+half_loss_rate:4.00
+cnt=5000
+average handshake time:7.49537e+07
+
+
+half_loss_rate:4.50
+cnt=5000
+average handshake time:8.23493e+07
+
+
+half_loss_rate:5.00
+cnt=5000
+average handshake time:8.74374e+07
+
+
+half_loss_rate:5.50
+cnt=5000
+average handshake time:9.32165e+07
+
+
+half_loss_rate:6.00
+cnt=5000
+average handshake time:1.07465e+08
+
+
+half_loss_rate:6.50
+cnt=5000
+average handshake time:1.12324e+08
+
+
+half_loss_rate:7.00
+cnt=5000
+average handshake time:1.13529e+08
+
+
+half_loss_rate:7.50
+cnt=5000
+average handshake time:1.22718e+08
+
+
+half_loss_rate:8.00
+Handshake error: folly::AsyncSocketException: AsyncSocketException: handshake timeout expired, type = Timed out
+cnt=4999
+average handshake time:1.37e+08
+
+
+half_loss_rate:8.50
+cnt=5000
+average handshake time:1.44332e+08
+
+
+half_loss_rate:9.00
+cnt=5000
+average handshake time:1.4512e+08
+
+
+half_loss_rate:9.50
+cnt=5000
+average handshake time:1.57787e+08
+
+
+half_loss_rate:10.00
+cnt=5000
+average handshake time:1.82143e+08
+
+

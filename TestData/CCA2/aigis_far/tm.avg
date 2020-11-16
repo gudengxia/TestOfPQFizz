@@ -1,0 +1,110 @@
+INC
+kex:p384_aigis
+sig:p256_aigis
+half_delay_time:14.5ms
+
+half_loss_rate:0.00
+cnt=5000
+average handshake time:6.95165e+07
+
+
+half_loss_rate:0.50
+cnt=5000
+average handshake time:7.27909e+07
+
+
+half_loss_rate:1.00
+cnt=5000
+average handshake time:7.69689e+07
+
+
+half_loss_rate:1.50
+cnt=5000
+average handshake time:8.18543e+07
+
+
+half_loss_rate:2.00
+cnt=5000
+average handshake time:8.3338e+07
+
+
+half_loss_rate:2.50
+cnt=5000
+average handshake time:9.03082e+07
+
+
+half_loss_rate:3.00
+cnt=5000
+average handshake time:9.47687e+07
+
+
+half_loss_rate:3.50
+cnt=5000
+average handshake time:1.03032e+08
+
+
+half_loss_rate:4.00
+cnt=5000
+average handshake time:1.03255e+08
+
+
+half_loss_rate:4.50
+cnt=5000
+average handshake time:1.11138e+08
+
+
+half_loss_rate:5.00
+cnt=5000
+average handshake time:1.14894e+08
+
+
+half_loss_rate:5.50
+cnt=5000
+average handshake time:1.28106e+08
+
+
+half_loss_rate:6.00
+cnt=5000
+average handshake time:1.32468e+08
+
+
+half_loss_rate:6.50
+cnt=5000
+average handshake time:1.40048e+08
+
+
+half_loss_rate:7.00
+cnt=5000
+average handshake time:1.50997e+08
+
+
+half_loss_rate:7.50
+cnt=5000
+average handshake time:1.56628e+08
+
+
+half_loss_rate:8.00
+cnt=5000
+average handshake time:1.6081e+08
+
+
+half_loss_rate:8.50
+cnt=5000
+average handshake time:1.70849e+08
+
+
+half_loss_rate:9.00
+cnt=5000
+average handshake time:1.89227e+08
+
+
+half_loss_rate:9.50
+cnt=5000
+average handshake time:1.97402e+08
+
+
+half_loss_rate:10.00
+cnt=5000
+average handshake time:2.14189e+08
+
+

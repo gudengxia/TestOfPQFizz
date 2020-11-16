@@ -1,0 +1,110 @@
+INC
+kex:kyber512
+sig:falcon512
+half_delay_time:14.5ms
+
+half_loss_rate:0.00
+cnt=5000
+average handshake time:5.7358e+07
+
+
+half_loss_rate:0.50
+cnt=5000
+average handshake time:6.09181e+07
+
+
+half_loss_rate:1.00
+cnt=5000
+average handshake time:6.38148e+07
+
+
+half_loss_rate:1.50
+cnt=5000
+average handshake time:6.83041e+07
+
+
+half_loss_rate:2.00
+cnt=5000
+average handshake time:7.39391e+07
+
+
+half_loss_rate:2.50
+cnt=5000
+average handshake time:7.74442e+07
+
+
+half_loss_rate:3.00
+cnt=5000
+average handshake time:8.03674e+07
+
+
+half_loss_rate:3.50
+cnt=5000
+average handshake time:8.4921e+07
+
+
+half_loss_rate:4.00
+cnt=5000
+average handshake time:9.31678e+07
+
+
+half_loss_rate:4.50
+cnt=5000
+average handshake time:9.71994e+07
+
+
+half_loss_rate:5.00
+cnt=5000
+average handshake time:1.02779e+08
+
+
+half_loss_rate:5.50
+cnt=5000
+average handshake time:1.09865e+08
+
+
+half_loss_rate:6.00
+cnt=5000
+average handshake time:1.14556e+08
+
+
+half_loss_rate:6.50
+cnt=5000
+average handshake time:1.2472e+08
+
+
+half_loss_rate:7.00
+cnt=5000
+average handshake time:1.31837e+08
+
+
+half_loss_rate:7.50
+cnt=5000
+average handshake time:1.39179e+08
+
+
+half_loss_rate:8.00
+cnt=5000
+average handshake time:1.53198e+08
+
+
+half_loss_rate:8.50
+cnt=5000
+average handshake time:1.61708e+08
+
+
+half_loss_rate:9.00
+cnt=5000
+average handshake time:1.61839e+08
+
+
+half_loss_rate:9.50
+cnt=5000
+average handshake time:1.59871e+08
+
+
+half_loss_rate:10.00
+cnt=5000
+average handshake time:1.83726e+08
+
+

@@ -1,0 +1,111 @@
+INC
+kex:p384_kyber768
+sig:p256_dilithium3
+half_delay_time:14.5ms
+
+half_loss_rate:0.00
+cnt=5000
+average handshake time:6.24797e+07
+
+
+half_loss_rate:0.50
+cnt=5000
+average handshake time:6.49191e+07
+
+
+half_loss_rate:1.00
+cnt=5000
+average handshake time:6.80613e+07
+
+
+half_loss_rate:1.50
+cnt=5000
+average handshake time:7.18461e+07
+
+
+half_loss_rate:2.00
+cnt=5000
+average handshake time:7.76659e+07
+
+
+half_loss_rate:2.50
+cnt=5000
+average handshake time:8.1264e+07
+
+
+half_loss_rate:3.00
+cnt=5000
+average handshake time:8.27195e+07
+
+
+half_loss_rate:3.50
+cnt=5000
+average handshake time:8.8686e+07
+
+
+half_loss_rate:4.00
+cnt=5000
+average handshake time:9.17751e+07
+
+
+half_loss_rate:4.50
+cnt=5000
+average handshake time:9.88098e+07
+
+
+half_loss_rate:5.00
+cnt=5000
+average handshake time:1.09002e+08
+
+
+half_loss_rate:5.50
+cnt=5000
+average handshake time:1.11103e+08
+
+
+half_loss_rate:6.00
+cnt=5000
+average handshake time:1.19879e+08
+
+
+half_loss_rate:6.50
+cnt=5000
+average handshake time:1.29122e+08
+
+
+half_loss_rate:7.00
+cnt=5000
+average handshake time:1.2803e+08
+
+
+half_loss_rate:7.50
+cnt=5000
+average handshake time:1.45417e+08
+
+
+half_loss_rate:8.00
+cnt=5000
+average handshake time:1.54367e+08
+
+
+half_loss_rate:8.50
+cnt=5000
+average handshake time:1.63593e+08
+
+
+half_loss_rate:9.00
+Connect error: AsyncSocketException: connect timed out after 60000ms, type = Timed out
+cnt=4999
+average handshake time:1.64809e+08
+
+
+half_loss_rate:9.50
+cnt=5000
+average handshake time:1.82936e+08
+
+
+half_loss_rate:10.00
+cnt=5000
+average handshake time:1.9117e+08
+
+

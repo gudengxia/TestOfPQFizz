@@ -1,0 +1,120 @@
+INC
+kex:ntru509
+sig:falcon512
+half_delay_time:1ms
+
+half_loss_rate:0
+cnt=5000
+average handshake time:2.97545e+07
+
+
+half_loss_rate:1
+cnt=5000
+average handshake time:3.16961e+07
+
+
+half_loss_rate:2
+cnt=5000
+average handshake time:3.56585e+07
+
+
+half_loss_rate:3
+cnt=5000
+average handshake time:3.9344e+07
+
+
+half_loss_rate:4
+cnt=5000
+average handshake time:4.90162e+07
+
+
+half_loss_rate:5
+cnt=5000
+average handshake time:5.5373e+07
+
+
+half_loss_rate:6
+cnt=5000
+average handshake time:6.03202e+07
+
+
+half_loss_rate:7
+cnt=5000
+average handshake time:7.37795e+07
+
+
+half_loss_rate:8
+cnt=5000
+average handshake time:8.69862e+07
+
+
+half_loss_rate:9
+cnt=5000
+average handshake time:9.55207e+07
+
+
+half_loss_rate:10
+cnt=5000
+average handshake time:1.12038e+08
+
+
+half_loss_rate:11
+cnt=5000
+average handshake time:1.29757e+08
+
+
+half_loss_rate:12
+cnt=5000
+average handshake time:1.80636e+08
+
+
+half_loss_rate:13
+cnt=5000
+average handshake time:1.66836e+08
+
+
+half_loss_rate:14
+cnt=5000
+average handshake time:2.4176e+08
+
+
+half_loss_rate:15
+cnt=5000
+average handshake time:2.85765e+08
+
+
+half_loss_rate:16
+Handshake error: folly::AsyncSocketException: AsyncSocketException: handshake timeout expired, type = Timed out
+Handshake error: folly::AsyncSocketException: AsyncSocketException: handshake timeout expired, type = Timed out
+cnt=4998
+average handshake time:2.88175e+08
+
+
+half_loss_rate:17
+cnt=5000
+average handshake time:3.38723e+08
+
+
+half_loss_rate:18
+Handshake error: folly::AsyncSocketException: AsyncSocketException: handshake timeout expired, type = Timed out
+Handshake error: folly::AsyncSocketException: AsyncSocketException: handshake timeout expired, type = Timed out
+cnt=4998
+average handshake time:4.25032e+08
+
+
+half_loss_rate:19
+Handshake error: folly::AsyncSocketException: AsyncSocketException: handshake timeout expired, type = Timed out
+Handshake error: folly::AsyncSocketException: AsyncSocketException: handshake timeout expired, type = Timed out
+cnt=4998
+average handshake time:4.72132e+08
+
+
+half_loss_rate:20
+Handshake error: folly::AsyncSocketException: AsyncSocketException: handshake timeout expired, type = Timed out
+Handshake error: folly::AsyncSocketException: AsyncSocketException: handshake timeout expired, type = Timed out
+Handshake error: folly::AsyncSocketException: AsyncSocketException: handshake timeout expired, type = Timed out
+Handshake error: folly::AsyncSocketException: AsyncSocketException: handshake timeout expired, type = Timed out
+cnt=4996
+average handshake time:5.71407e+08
+
+

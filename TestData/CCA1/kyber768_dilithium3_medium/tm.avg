@@ -1,0 +1,110 @@
+INC
+kex:p384_kyber768
+sig:p256_dilithium3
+half_delay_time:6.5ms
+
+half_loss_rate:0.00
+cnt=5000
+average handshake time:4.55443e+07
+
+
+half_loss_rate:0.50
+cnt=5000
+average handshake time:4.7453e+07
+
+
+half_loss_rate:1.00
+cnt=5000
+average handshake time:5.14356e+07
+
+
+half_loss_rate:1.50
+cnt=5000
+average handshake time:5.09705e+07
+
+
+half_loss_rate:2.00
+cnt=5000
+average handshake time:5.50863e+07
+
+
+half_loss_rate:2.50
+cnt=5000
+average handshake time:5.6312e+07
+
+
+half_loss_rate:3.00
+cnt=5000
+average handshake time:6.11482e+07
+
+
+half_loss_rate:3.50
+cnt=5000
+average handshake time:6.51781e+07
+
+
+half_loss_rate:4.00
+cnt=5000
+average handshake time:6.9794e+07
+
+
+half_loss_rate:4.50
+cnt=5000
+average handshake time:7.15283e+07
+
+
+half_loss_rate:5.00
+cnt=5000
+average handshake time:8.25436e+07
+
+
+half_loss_rate:5.50
+cnt=5000
+average handshake time:9.06138e+07
+
+
+half_loss_rate:6.00
+cnt=5000
+average handshake time:9.02621e+07
+
+
+half_loss_rate:6.50
+cnt=5000
+average handshake time:9.17446e+07
+
+
+half_loss_rate:7.00
+cnt=5000
+average handshake time:1.03962e+08
+
+
+half_loss_rate:7.50
+cnt=5000
+average handshake time:1.14559e+08
+
+
+half_loss_rate:8.00
+cnt=5000
+average handshake time:1.18278e+08
+
+
+half_loss_rate:8.50
+cnt=5000
+average handshake time:1.21104e+08
+
+
+half_loss_rate:9.00
+cnt=5000
+average handshake time:1.29857e+08
+
+
+half_loss_rate:9.50
+cnt=5000
+average handshake time:1.39963e+08
+
+
+half_loss_rate:10.00
+cnt=5000
+average handshake time:1.6322e+08
+
+

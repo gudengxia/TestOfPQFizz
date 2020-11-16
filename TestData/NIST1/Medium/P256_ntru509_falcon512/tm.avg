@@ -1,0 +1,231 @@
+INC
+kex:p256_ntru509
+sig:p256_falcon512
+half_delay_time:14.5ms
+
+half_loss_rate:0.00
+cnt=3000
+average handshake time:6.86566e+07
+
+
+half_loss_rate:0.50
+cnt=3000
+average handshake time:7.15661e+07
+
+
+half_loss_rate:1.00
+cnt=3000
+average handshake time:7.66312e+07
+
+
+half_loss_rate:1.50
+cnt=3000
+average handshake time:7.96266e+07
+
+
+half_loss_rate:2.00
+cnt=3000
+average handshake time:8.29097e+07
+
+
+half_loss_rate:2.50
+cnt=3000
+average handshake time:8.55296e+07
+
+
+half_loss_rate:3.00
+cnt=3000
+average handshake time:9.4309e+07
+
+
+half_loss_rate:3.50
+cnt=3000
+average handshake time:9.31218e+07
+
+
+half_loss_rate:4.00
+cnt=3000
+average handshake time:9.66454e+07
+
+
+half_loss_rate:4.50
+cnt=3000
+average handshake time:1.05953e+08
+
+
+half_loss_rate:5.00
+cnt=3000
+average handshake time:1.09996e+08
+
+
+half_loss_rate:5.50
+cnt=3000
+average handshake time:1.12326e+08
+
+
+half_loss_rate:6.00
+cnt=3000
+average handshake time:1.28968e+08
+
+
+half_loss_rate:6.50
+cnt=3000
+average handshake time:1.3057e+08
+
+
+half_loss_rate:7.00
+cnt=3000
+average handshake time:1.38118e+08
+
+
+half_loss_rate:7.50
+Connect error: AsyncSocketException: connect timed out after 10000ms, type = Timed out
+cnt=2999
+average handshake time:1.57766e+08
+
+
+half_loss_rate:8.00
+Connect error: AsyncSocketException: connect timed out after 10000ms, type = Timed out
+cnt=2999
+average handshake time:1.5379e+08
+
+
+half_loss_rate:8.50
+Handshake error: folly::AsyncSocketException: AsyncSocketException: handshake timeout expired, type = Timed out
+Handshake error: folly::AsyncSocketException: AsyncSocketException: handshake timeout expired, type = Timed out
+cnt=2998
+average handshake time:1.58389e+08
+
+
+half_loss_rate:9.00
+Connect error: AsyncSocketException: connect timed out after 10000ms, type = Timed out
+Handshake error: folly::AsyncSocketException: AsyncSocketException: handshake timeout expired, type = Timed out
+cnt=2998
+average handshake time:1.74816e+08
+
+
+half_loss_rate:9.50
+Handshake error: folly::AsyncSocketException: AsyncSocketException: handshake timeout expired, type = Timed out
+Handshake error: folly::AsyncSocketException: AsyncSocketException: handshake timeout expired, type = Timed out
+cnt=2998
+average handshake time:1.85009e+08
+
+
+half_loss_rate:10.00
+Handshake error: folly::AsyncSocketException: AsyncSocketException: handshake timeout expired, type = Timed out
+Handshake error: folly::AsyncSocketException: AsyncSocketException: handshake timeout expired, type = Timed out
+cnt=2998
+average handshake time:1.92642e+08
+
+
+DEC
+kex:p256_ntru509
+sig:p256_falcon512
+half_delay_time:14.5ms
+
+half_loss_rate:10.00
+cnt=3000
+average handshake time:1.9319e+08
+
+
+half_loss_rate:9.50
+cnt=3000
+average handshake time:1.91839e+08
+
+
+half_loss_rate:9.00
+cnt=3000
+average handshake time:1.7439e+08
+
+
+half_loss_rate:8.50
+cnt=3000
+average handshake time:1.75519e+08
+
+
+half_loss_rate:8.00
+cnt=3000
+average handshake time:1.57522e+08
+
+
+half_loss_rate:7.50
+cnt=3000
+average handshake time:1.34306e+08
+
+
+half_loss_rate:7.00
+Connect error: AsyncSocketException: connect timed out after 60000ms, type = Timed out
+cnt=2999
+average handshake time:1.33211e+08
+
+
+half_loss_rate:6.50
+cnt=3000
+average handshake time:1.29693e+08
+
+
+half_loss_rate:6.00
+cnt=3000
+average handshake time:1.26285e+08
+
+
+half_loss_rate:5.50
+cnt=3000
+average handshake time:1.20822e+08
+
+
+half_loss_rate:5.00
+cnt=3000
+average handshake time:1.11133e+08
+
+
+half_loss_rate:4.50
+cnt=3000
+average handshake time:1.0619e+08
+
+
+half_loss_rate:4.00
+cnt=3000
+average handshake time:9.82386e+07
+
+
+half_loss_rate:3.50
+cnt=3000
+average handshake time:9.50859e+07
+
+
+half_loss_rate:3.00
+cnt=3000
+average handshake time:8.91404e+07
+
+
+half_loss_rate:2.50
+cnt=3000
+average handshake time:8.53778e+07
+
+
+half_loss_rate:2.00
+cnt=3000
+average handshake time:8.72364e+07
+
+
+half_loss_rate:1.50
+cnt=3000
+average handshake time:8.02317e+07
+
+
+half_loss_rate:1.00
+cnt=3000
+average handshake time:7.61488e+07
+
+
+half_loss_rate:0.50
+cnt=3000
+average handshake time:7.28853e+07
+
+
+half_loss_rate:0.00
+cnt=3000
+average handshake time:6.97337e+07
+
+
